@@ -15,7 +15,7 @@ my $builder = Module::Build->new(
     meta_merge     => {
         resources => {
             homepage   => 'http://padre.perlide.org/',
-            repository => 'http://svn.perlide.org/padre/trunk/Padre-Plugin-LineFilter/',
+            repository => 'https://github.com/PadreIDE/Padre-Plugin-LineFilter/',
         }
     },
 );
